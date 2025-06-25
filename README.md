@@ -3,7 +3,7 @@
 **Project Type:** Personal Business Tool | Platform: Microsoft Excel + VBA | Scope: Employee Management, Attendance Tracking & Payroll Automation
 
 #### Overview:
-A robust Excel-based system designed to automate and streamline the process of tracking employee attendance, calculating payroll, and managing employee data. This system handles multiple employee sheets for both staff and workers, integrates with payroll calculations, and produces a comprehensive summary sheet with aggregated data. Built using VBA automation, the tool ensures accurate and efficient data entry, improves visibility into employee performance, and reduces manual intervention in payroll processing.
+>A robust Excel-based system designed to automate and streamline the process of tracking employee attendance, calculating payroll, and managing employee data. This system handles multiple employee sheets for both staff and workers, integrates with payroll calculations, and produces a comprehensive summary sheet with aggregated data. Built using VBA automation, the tool ensures accurate and efficient data entry, improves visibility into employee performance, and reduces manual intervention in payroll processing.
 
 
 #### Key Features & Contributions:
@@ -11,7 +11,7 @@ A robust Excel-based system designed to automate and streamline the process of t
  Automated the creation of individual attendance sheets for employees (both staff and workers) based on pre-existing templates. Each sheet is populated with employee-specific data such as position, salary components, and attendance details.
 * **💼 Payroll Calculation Engine:**
 The system automates payroll calculations, including:
-  * Basic Salary: Derived from the employee sheet.
+  * *Basic Salary*: Derived from the employee sheet.
   * Overtime: Based on hours worked beyond the standard time and calculated at a premium rate.
   * Deductions: Handles deductions based on absence, late arrivals, early checkouts, and leave days.
   * Bonuses: Applied based on employee performance and other criteria.
@@ -32,8 +32,15 @@ Aggregated data from multiple employee sheets is automatically transferred into 
  The system checks for errors such as missing employee data in the Biomaster Sheet or discrepancies in employee sheets. Any missing records are flagged, and reports are generated to indicate employees who need corrections.
 
 #### Impact:
-The Employee Attendance & Payroll Management System has significantly reduced the time required to process payroll (by automating the tracking, calculation, and reporting of attendance and salary data). The automation of employee sheet management and payroll calculation has minimized human error, increased data integrity, and improved decision-making by providing real-time updates on employee performance, attendance, and costs. The tool also ensured better resource management and time tracking for both staff and workers, ultimately improving operational efficiency and reducing administrative overhead by 60%.
+1. Significantly reduced the time required to process payroll (by automating the tracking, calculation, and reporting of attendance and salary data).
+2. Minimized human error, increased data integrity, and improved decision-making by providing real-time updates on employee performance, attendance, and costs.
+3. Optimized resource management and time tracking for both staff and workers, ultimately improving operational efficiency and reducing administrative overhead by 60%.
 
 ---
 
-You can see my other projects at: bit.ly/PTO_Portfolio
+
+## 🔗 Explore More
+
+📂 **Full Project Portfolio:** [Click here to view my project portfolio](https://docs.google.com/document/d/1oumLDxrQHnikXOhEnX9Oi_yjdNUSp50jVw3rKB1wNgk/edit?usp=sharing)  
+📧 **Reach out:** wrightlisa20829@gmail.com  
+🌐 **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/princess-lisa-ogbechie-pmp%C2%AE-52a401134/)
